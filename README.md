@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a TodoList [project](https://github.com/M-Gweltaz/TodoList) with a backend authentification!
 - 🌱 I’m currently learning the bases of backend development with Node.js and MongoDB
 - :checkered_flag: I’m looking for business willing to invest in fresh, motivated web developer
-- 🥅 2020 Goals: Having a good understanding of back end and data base and learning the React library
+- 🥅 2020 Goals: Having a good understanding of back end and database and learning the React library
 - ⚡ About me: I love running / tech / cats
 
 ### Connect with me:
