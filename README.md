@@ -8,7 +8,7 @@
 - ⚡ About me: I love running / tech / cats
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gweltaz-mary/)
+[<img align="left" alt="gweltaz mary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gweltaz-mary/)
 
 <br />
 
