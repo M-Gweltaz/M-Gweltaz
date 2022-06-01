@@ -1,10 +1,10 @@
 ### Hi there, I'm Gweltaz 👋
 
 ## I'm a web developer looking for opportunities!
-- 🔭 I’m currently working on a E-commerce platform [project](https://github.com/M-Gweltaz/Envame)!
-- 🌱 I’m currently learning the bases of backend development with Node.js and MongoDB
+- 🌱 I’m currently learning React with the OpenClassroom graduate education: [Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)
+- 🔭 I worked on a E-commerce platform [project](https://github.com/M-Gweltaz/Envame)!
 - :checkered_flag: I’m looking for business willing to invest in fresh, motivated web developer
-- 🥅 2021 Goals: Having a better understanding of back end with database and learning the React library
+- 🥅 2022 Goals: Having a firmer grasp on the React library
 - ⚡ About me: I love running / tech / cats
 
 ### Connect with me:
@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Code-Materialize-informational?style=flat&logo=css3&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=26ad17)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=node.js&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=gnu-bash&logoColor=white&color=17ad79)
