@@ -13,7 +13,6 @@
 <br />
 
 ### :wrench: Languages and Tools:
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=adab17)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Code-Materialize-informational?style=flat&logo=css3&logoColor=white&color=26ad17)
