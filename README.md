@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=node.js&logoColor=white&color=26ad17)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=html5&logoColor=white&color=26ad17)
 ![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=gnu-bash&logoColor=white&color=17ad79)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=17adab)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=17adab)
