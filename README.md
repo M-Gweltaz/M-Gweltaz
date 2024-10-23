@@ -1,12 +1,12 @@
 ### Hi there, I'm Gweltaz 👋
 
 ## I'm a web developer looking for opportunities!
-- 🌱 I’m currently learning React with the OpenClassroom graduate education: [Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)
+- 🌱 I learned React with the OpenClassroom graduate education: [Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)
 - 🔭 I worked on a E-commerce platform [project](https://github.com/M-Gweltaz/Envame)!
-- :checkered_flag: I’m looking for business willing to invest in fresh, motivated web developer
-- 🥅 2023 Goals: Having a firmer grasp on the React library
-- ⚡ About me: I love running / tech / cats
-
+- 🌁 I'm actualy working inside a Compagny that is selling a RH SaaS solution.
+- 🥅 2025 Goals: Challenge myself as a developper to improve my knowleadge.
+- ⚡ About me: I love running / tech 
+  
 ### Connect with me:
 [<img align="left" alt="gweltaz mary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gweltaz-mary/)
 
